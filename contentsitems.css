@@ -1,0 +1,246 @@
+.contents_box_main{
+text-align: center;
+}
+.contents_box_title{
+text-align: right;
+clear: both;
+}
+.contents_box_title_normal{
+margin-top: 30px;
+margin-bottom: 5px;
+text-align: left;
+clear: both;
+}
+.contents_box_title h2, .contents_box_title_normal h2{
+font-size: 24px;
+line-height: 1.1em;
+vertical-align: bottom;
+border-bottom: double 3px gray;
+}
+.contents_box_title hr, .contents_box_title_normal hr {
+display: none;
+clear: both;
+}
+.contents_box_title strong, .contents_box_title_normal strong {
+display: block;
+margin-top: 2px;
+font-size: 14px;
+color: red;
+}
+.image_left{
+float: left;
+margin-right: 10px;}
+
+#top_faq_body{
+margin-top: 10px;
+border: solid 1px gray;
+width: 300px;
+float: left;
+}
+#top_faq_body li {
+cursor: pointer;
+color: blue;
+text-decoration: underline;
+line-height: 1.3em;
+}
+#top_faq_body h2 {
+margin: 0px;
+padding-left:3px;
+padding-top:3px;
+font-size: 14px;
+border-bottom: double 3px gray;
+}
+
+#top_faq_body_center{
+margin: auto;
+margin-top: 10px;
+border: solid 1px gray;
+width: 400px;
+text-align: center;
+}
+#top_faq_body_center ul {
+text-align: center;
+margin: 0px;
+padding: 0px;
+}
+#top_faq_body_center li {
+margin: 3px;
+padding: 0px;
+cursor: pointer;
+color: blue;
+text-decoration: underline;
+line-height: 1.3em;
+display: block;
+white-space: nowrap;
+}
+#top_faq_body_center h2 {
+margin: 0px;
+padding-left:3px;
+padding-top:3px;
+font-size: 14px;
+border-bottom: double 3px gray;
+text-align: center;
+}
+#top_naisouimage{
+float: right;
+width: 300px;
+text-align: center
+}
+#top_naisouimage img {
+margin: auto;
+}
+.faq_value{
+display: none;
+}
+.box_title{
+margin: auto;
+width: 595px;
+height: 46px;
+background: url(images/checkpoint_box_l_01.gif) no-repeat;
+text-align: center;
+}
+.box_title h2 {
+color: red;
+font-size: 14px;
+line-height: 3em;
+vertical-align: bottom;
+}
+.box_title strong {
+font-size: 14px;
+line-height: 3em;
+vertical-align: bottom;
+}
+.box_main{
+margin: auto;
+width: 595px;
+background: url(images/checkpoint_box_l_02.gif) repeat-y;
+text-align: center;
+}
+.box_main2{
+margin: auto;
+width: 595px;
+background: url(images/checkpoint_box_l_02.gif) repeat-y;
+text-align: center;
+}
+.box_main2 img {
+width: 100px;
+margin-right: 5px;
+margin-bottom:5px;
+float left;
+}
+.box_main2 p{
+clear:both;
+}
+.box_textarea {
+padding: 20px 20px;
+padding-bottom: 30px;
+}
+.box_textarea h3{
+font-size: 14px;
+border-bottom:solid 1px silver;
+margin-bottom: 5px;
+}
+.box_main img {
+width: 250px;
+margin-right: 5px;
+}
+.mgtb{
+margin: 10px auto;
+margin-bottom: 0px;}
+.box_main .pagetop , .box_main2 .pagetop{
+padding-right: 5px;
+width: 132px;
+height: 32px;}
+#mgtb_bottom{
+width: 595px;
+height: 27px;
+}
+.contents_title_read{
+margin-top: 3px;
+color: red;
+width: 250px;
+font-size: 12px;
+float: right;
+}
+
+#kominka_title{
+background: url(images/kominka_title.gif) no-repeat left center;
+height: 48px;
+}
+#sinchiku_title{
+background: url(images/sinchiku_title.gif) no-repeat left center;
+height: 48px;
+}
+#pol_title{
+background: url(images/pol_title.gif) no-repeat left center;
+height: 48px;
+}
+.pol_image_fll{
+float: left;
+width: 250px;
+margin-right: 5px;
+margin-bottom: 5px;
+}
+.pol_image_flr{
+float: right;
+width: 250px;
+margin-right: 5px;
+margin-bottom: 5px;
+}
+#about_table{
+margin: auto;
+}
+#about_table th {
+vertical-align: middle;
+white-space: nowrap;
+}
+#about_table td {
+vertical-align: middle;
+white-space: nowrap;
+padding: 5px 2px;
+}
+#about_box{
+width:600px;
+margin:auto;
+}
+#about_map{
+margin:10px auto;
+display:block;
+}
+#about_img1{
+margin-top:7px;
+margin-bottom:7px;
+float:left;
+}
+#about_img2{
+margin-top:7px;
+margin-bottom:7px;
+margin-left:7px;
+}
+#about_img3{
+margin-top:7px;
+margin-bottom:7px;
+float:right;
+}
+#about_img_table{
+width:600px;
+margin:auto;
+}
+#about_img4{
+width:213px;
+}
+#about_img5{
+text-align:center;
+}
+#about_img6{
+padding-top:7px;
+width:213px;
+}
+#about_text{
+text-align:center;
+font-size:12px;
+line-height:1.4em;
+}
+#about_text h3{
+font-size:14px;
+}
